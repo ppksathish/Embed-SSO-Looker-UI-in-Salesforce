@@ -1,0 +1,3 @@
+<apex:page standardController="Object Name" extensions="LookerEmbedController">
+    <apex:iframe src="{!strURL}" scrolling="true" id="theIframe"/>
+</apex:page>
